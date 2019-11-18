@@ -1,4 +1,4 @@
-module github.com/jcockbain/go-github/v28
+module github.com/jcockbain/go-github
 
 require (
 	github.com/golang/protobuf v1.3.2 // indirect
